@@ -1,0 +1,11 @@
+{
+  "name": "shopnow-client",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vite build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
